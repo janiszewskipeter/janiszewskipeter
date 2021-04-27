@@ -9,13 +9,14 @@
 - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
 - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
-
+- :speech_balloon: Languages: :flag_pl:,:flag_gb:,:flag_de:,:flag_it: in progres: :flag_ru:,:flag_es:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4 align="left">Specialization</h4>
   <p>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"           height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"           height="40"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   </p>
   <h5 align="left">Languages</h5>
     <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="java" width="40" height="40"/> </a>
