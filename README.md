@@ -31,7 +31,8 @@
   
   <h5 align="left">Database</h5>
   <p>
-      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-                   wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     </p>
   
   <h5 align="left">Tools</h5>
