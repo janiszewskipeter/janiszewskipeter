@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
 
-- 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](www.piotrjaniszewski.pl)
+- 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
 - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
 
