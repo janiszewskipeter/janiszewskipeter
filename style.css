@@ -1,0 +1,407 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #fff center no-repeat fixed ;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+    user-select: none;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    position: sticky;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #fff ;
+    z-index: 999;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    top: 0;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.2);
+    overflow: hidden;
+
+}
+
+.home, .about, .education, .stack{
+    display: flex;
+    height: 100vh;
+    min-height: 500px;
+    overflow:hidden;
+}
+
+.contact img{
+    border-style: none;
+    position: absolute;
+    display: block;
+    width: 30%;
+    height: auto;
+    z-index: -1;
+    padding: 0 40px ;
+
+    filter: drop-shadow(10px 10px 16px #182F53);
+}
+
+.home, .stack{
+    background: #ffffff center no-repeat fixed ;
+    color: #182F53;
+}
+
+.about, .stack{
+    background: #CFF5EA center no-repeat fixed ;
+    color: #182F53;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    height:100vh;
+    min-height: 500px;
+    background: #fff;
+    opacity: .7;
+}
+
+.center{
+    padding: 10rem;
+    align-items: center;
+
+}
+.contact .h1{
+    opacity: 1.1;
+    color: #182F53;
+    z-index:1;
+}
+
+.wrapper{
+    width: 90%;
+    position: absolute;
+    bottom: 30vh;
+    z-index: 2;
+    margin: auto;
+    padding: 10px;
+    height: 30vh;
+    color: #182F53;
+    position: absolute;
+    top: 55%;
+}
+w{
+    display: flex;
+    flex-wrap: wrap;
+    letter-spacing: normal;
+
+}
+.main{
+    width: 40%;
+}
+
+.main h1{
+    clip-path: polygon(0 0, 59% 0, 100% 100%, 0% 100%);
+    background-color: #A7E9E1;
+    font-weight: bolder;
+    padding: 1rem;
+    margin: 1px;
+    border-radius: 2px;
+}
+.main h4,h5{
+    font-weight: bolder;
+    padding: 1rem;
+    margin: 1px;
+}
+
+
+.text-center{
+    text-align: center !important;
+}
+.logo,.nav-links a{
+    color: #182F53;
+}
+
+.logo{
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+
+}
+
+.logo h6{
+    letter-spacing: normal;
+    text-decoration: none;
+    display: table;
+    margin: auto;
+    padding: 1px;
+
+}
+
+.mobile-menu div{
+    background-color: #182F53;
+    width: 25px;
+    height: 3px;
+    margin: 2px;
+}
+.mobile-menu{
+    display: none;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 0.1rem;
+    width: 30%;
+    font-size: 14px;
+}
+
+.nav-links li{
+    list-style: none;
+}
+
+
+.nav-links a{
+    text-decoration: none;
+}
+.about-info{
+    height: 60vh;
+    width: 40%;
+}
+.about-picture{
+    height: 60vh;
+    width: 60%;
+}
+
+.fade{
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 2s;
+    animation-name: fade;
+    animation-duration: 2s;
+
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+
+@media screen and (max-width:800px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    .logo h4 {
+        letter-spacing: 0;
+    }
+    .contact{
+        flex-direction:column;
+    }
+
+    .about-picture, .stack-column svg
+    ,.stack-column.right
+    {
+        display: none;
+    }
+    .nav-links {
+        width: 40%;
+        position: absolute;
+        right: 0px;
+        height: 92vh;
+        top: 8vh;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+    }
+
+    .nav-links li {
+        opacity: 1;
+    }
+
+    .mobile-menu {
+        padding: 0.5rem;
+        display: block;
+        cursor: pointer;
+    }
+
+    .wrapper {
+        width: 100%;
+        position: absolute;
+        bottom: 1vh;
+    }
+}
+
+.nav-active{
+    transform: translateX(0%);
+}
+
+#topBtn {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 100px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-image: linear-gradient(rgb(80, 204, 204) 35%, rgb(69, 174, 202) 100%);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 18px;
+    /*transition: transform 0.5s ease-in;*/
+    transition: box-shadow 150ms ease-in-out 0s;
+    /*opacity: 0.9;*/
+    transform: rotate(90deg);
+}
+
+.IconLauncher__CircleLauncher-sc-1ad7rw3-2{
+    background-image: linear-gradient(rgb(80, 204, 204) 35%, rgb(69, 174, 202) 100%);!important;
+
+}
+
+#topBtn:hover {
+    /*opacity: 1;*/
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px, rgba(0, 0, 0,0.2) 0px 2px 24px;
+    transition: box-shadow 150ms ease-in-out 0s;
+}
+
+
+#picture img{
+    display: block;
+    height: 60%;
+    position: absolute;
+    filter: drop-shadow(10px 10px #A7E9E1) ;
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+.brain img{
+    height: 50%;
+    width: auto;
+}
+
+
+  .invisible{
+    visibility: hidden;
+}
+.brain, .home-about-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: stretch;
+
+}
+.brain{
+    width:70%;
+    height:60%;
+}
+.home-about-row{
+    width: 70%;
+    height:80%;
+    /*position:relative;*/
+}
+
+.nested{
+    display: flex;
+    flex-direction: column;
+    top: 50%;
+    position: relative;
+}
+
+.nested .h1, h2,h3,h4{
+    padding: 1rem;
+    margin: 1rem;
+
+}
+.stack-column{
+    padding: 2px;
+    margin: 2px;
+    width: 70%;
+}
+
+.stack-column > h3,h2, p{
+    padding: 2px;
+    margin: 10px;
+}
+.stack-column > ul{
+    padding: 2px;
+    margin: 10px;
+    list-style-type: none;
+
+}
+.info{
+    bottom: 10px;
+}
+
+.normal-scale{
+    transform: scale(1);
+}
+.show-and-rotate{
+    visibility: visible;
+    animation: logo-rotate 3s ease-in-out;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+
+
+
+@keyframes logo-rotate{
+    from{
+        transform: scale(0.1) ;
+    } to{
+              transform: scale(1) rotateX(360deg);
+           }
+}
+
+
+
+
+.rotate{
+    visibility: visible;
+    animation: rotate 3s ease-in-out ;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+
+
+
+@keyframes rotate{
+    from{
+
+
+    } to{
+          transform: rotateZ(360deg);
+      }
+}
