@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Peter Janiszewski</h1>
-<h3 align="center">A junior fullstack developer from Poland</h3>
+<h3 align="center">A junior fullstack developer from Poland 👨🏼‍🎓</h3>
 
 
 
@@ -9,7 +9,8 @@
 - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
 - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
-- :speech_balloon: Languages: ![image](https://user-images.githubusercontent.com/60006939/116252289-b7b17180-a76f-11eb-87c0-1b88ae166bbd.png),:flag_gb:,:flag_de:,:flag_it: in progres: :flag_ru:,:flag_es:
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
