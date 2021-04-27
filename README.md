@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janiszewskipeter&label=Profile%20views&color=0e75b6&style=flat" alt="janiszewskipeter" /> </p>
 
 
-- 🔭 I’m currently working on [Game with 5 other team](https://github.com/piotrmludzik/GeekOfPlanets)
+- 🔭 I’m currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
 
 - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](www.piotrjaniszewski.pl)
 
