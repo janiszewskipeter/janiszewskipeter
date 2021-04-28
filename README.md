@@ -1,5 +1,7 @@
 ![alt text](./logo.svg)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=janiszewskipeter&label=Profile%20views&color=0e75b6&style=flat" alt="janiszewskipeter" /> 
+</p>
 - 🔭 I’m currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
 
 - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
@@ -26,7 +28,7 @@
        <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"            alt="bootstrap" width="40" height="40"/> </a>
      </p>
   
-  <h5 align="left">Database</h5>
+  <h5 align="right">Database</h5>
   <p>
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
