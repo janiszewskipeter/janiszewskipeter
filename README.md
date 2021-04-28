@@ -4,7 +4,7 @@
 
  <h5>- 👨‍💻 More about my work backlog and resume is  available at <a href="https://piotrjaniszewski.pl">www.piotrjaniszewski.pl</a></h5>
 
- <h5>- 📫 Feel free to reach me</h5 **kontakt@piotrjaniszewski.pl**
+ <h5>- 📫 Feel free to reach me <a href = "mailto: kontakt@piotrjaniszewski.pl">kontakt@piotrjaniszewski.pl</a></h5>
 
 <h5 align="left">Specialization:</h5>
 <p align="left">
