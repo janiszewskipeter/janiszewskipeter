@@ -1,3 +1,4 @@
+![alt text](./images/top.svg)
 <h1 align="center">Hi, I'm Peter Janiszewski</h1>
 <h3 align="center">A junior fullstack developer from Poland 👨🏼‍🎓</h3>
 
