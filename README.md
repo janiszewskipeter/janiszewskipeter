@@ -4,7 +4,7 @@
 
 <h6> - 👨‍💻 More about my work backlog is  available at[www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)</h6>
 
-<h6> - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**</h6>
+<h6> - 📫 Feel free to reach me </h6> **kontakt@piotrjaniszewski.pl**
 <h4 align="left">Specialization:</h4>
 <p align="left">
   <p>
