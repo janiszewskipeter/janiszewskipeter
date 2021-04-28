@@ -2,9 +2,9 @@
 
  <h5>- 🔭 I’m currently working on <a href="https://github.com/piotrmludzik/GeekOfPlanets">Game with 5 other team mates</a></h5>
 
- - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
+ <h5>- 👨‍💻 More about my work backlog and resume is  available at <a href="https://piotrjaniszewski.pl">www.piotrjaniszewski.pl</a></h5>
 
- - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
+ <h5>- 📫 Feel free to reach me</h5 **kontakt@piotrjaniszewski.pl**
 
 <h4 align="left">Specialization:</h4>
 <p align="left">
