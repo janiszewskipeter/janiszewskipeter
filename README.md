@@ -6,7 +6,7 @@
 
  <h5>- 📫 Feel free to reach me</h5 **kontakt@piotrjaniszewski.pl**
 
-<h4 align="left">Specialization:</h4>
+<h5 align="left">Specialization:</h5>
 <p align="left">
   <p>
     <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"           height="40"/> </a>
