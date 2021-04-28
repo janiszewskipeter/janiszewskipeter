@@ -1,11 +1,11 @@
 ![alt text](./logo.svg)
 
-- 🔭 <h5>I’m currently working on [Game with 5 other team mates]</h5>(https://github.com/piotrmludzik/GeekOfPlanets)
+<h6> - 🔭 I’m currently working on [Game with 5 other team mates]</h6>(https://github.com/piotrmludzik/GeekOfPlanets)
 
-- 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
+<h6> - 👨‍💻 More about my work backlog is  available at </h6>[www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
-- 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
-<h3 align="left">Languages and Tools:</h3>
+<h6> - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**</h6>
+<h4 align="left">Specialization:</h4>
 <p align="left">
   <p>
     <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"           height="40"/> </a>
