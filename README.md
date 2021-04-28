@@ -5,7 +5,6 @@
 - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
 - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**
-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4 align="left">Specialization</h4>
