@@ -1,4 +1,4 @@
-![alt text](./top.svg)
+(./logo.svg)
 
 
 <h1 align="center">Hi, I'm Peter Janiszewski</h1>
