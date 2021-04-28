@@ -1,5 +1,6 @@
 ![alt text](./logo.svg)
 
+<h5> Rebranding Myself into Junior Fullstack Developer @ Codecool Global<h5>
  <h5>- 🔭 I’m currently working on <a href="https://github.com/piotrmludzik/GeekOfPlanets">Game with 5 other team mates</a></h5>
 
  <h5>- 👨‍💻 More about my work backlog and resume is  available at <a href="https://piotrjaniszewski.pl">www.piotrjaniszewski.pl</a></h5>
