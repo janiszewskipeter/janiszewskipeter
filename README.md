@@ -42,8 +42,9 @@
     <p>
       <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40"height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://chop-chop.org/app/uploads/2019/05/logo-react-blue-1.svg" alt="reactjs" width="40"height="40"/> </a>
-  </p>
-![alt text](./bottom.svg)
-<p align="center">
+  </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=janiszewskipeter&label=Profile%20views&color=0e75b6&style=flat" alt="janiszewskipeter" /> 
 </p>
+![alt text](./bottom.svg)
+
+
