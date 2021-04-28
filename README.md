@@ -1,6 +1,6 @@
 ![alt text](./logo.svg)
 
- <h3>- 🔭 I’m currently working on </h3><a href="https://github.com/piotrmludzik/GeekOfPlanets">Game with 5 other team mates</a>
+ <h5>- 🔭 I’m currently working on <a href="https://github.com/piotrmludzik/GeekOfPlanets">Game with 5 other team mates</a></h5>
 
  - 👨‍💻 More about my work backlog is  available at [www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
 
