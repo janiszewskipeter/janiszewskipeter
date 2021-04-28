@@ -1,8 +1,8 @@
 ![alt text](./logo.svg)
 
-<h6> - 🔭 I’m currently working on [Game with 5 other team mates]</h6>(https://github.com/piotrmludzik/GeekOfPlanets)
+<h6> - 🔭 I’m currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)</h6>
 
-<h6> - 👨‍💻 More about my work backlog is  available at </h6>[www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)
+<h6> - 👨‍💻 More about my work backlog is  available at[www.piotrjaniszewski.pl](https://www.piotrjaniszewski.pl)</h6>
 
 <h6> - 📫 Feel free to reach me **kontakt@piotrjaniszewski.pl**</h6>
 <h4 align="left">Specialization:</h4>
