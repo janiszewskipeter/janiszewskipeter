@@ -64,3 +64,5 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=janiszewskipeter&label=Profile%20views&color=0e75b6&style=flat" alt="janiszewskipeter" /> 
 </p>
+
+![alt text](./bottom.svg)
